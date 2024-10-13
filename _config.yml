@@ -82,8 +82,8 @@ analytics:
 author:
   name             : LiFei # "Your Sidebar Name"
   avatar           : "profile.jpg"
-  bio              : Undergraduate student, AI, NCU # "Your biography for the left-hand sidebar"
-  location         : "NanChang" # "Location"
+  bio              : Undergraduate Student, AI, NCU # "Your biography for the left-hand sidebar"
+  location         : "NanChang University" # "Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : ""
