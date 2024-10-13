@@ -9,16 +9,13 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S08852308240000
 ---
 
 ## Abstract
-In recent years, the localization and tracking of moving targets have been widely used in many applications, including indoor navigation, smart home, security monitoring, smart medical services, etc. The Radio-Frequency based contactless localization and tracking have attracted extensive attention from researchers. The IR-UWB based technology can achieve target localization and tracking at low cost and power consumption and has strong development potential. However, most of the existing works have the following problems: 1) Limited tracking scenes. Modeling and processing methods are only for outdoor or relatively empty indoor scenes under ideal conditions. 2) Limited movement state of the target. The target is required to move at a constant speed. 3) Low tracking accuracy caused by fake dynamic targets. In order to solve these problems, in this paper, we propose a moving target tracking method using IR-UWB signals on the basis of understanding the composition of the received signal spectrum in multipath environments. First, it extracts the dynamic components of the originally received signal spectrum. Then, it uses Gaussian blur-based multipath elimination and distance extraction algorithms to eliminate multipath interference and only retains one reflection information directly related to the moving target, thereby accurately obtaining the target’s distance curve. Subsequently, a multi-view joint fusion algorithm is proposed to fuse the distance information of the devices from different views to achieve accurate localization and tracking of a single freely moving target. In addition, we built a real-time moving target tracking system based on IR-UWB. The experimental results in the real indoor home scene show that the error between the center position of the human body estimated by the system and the real motion trajectory is always within 20cm. In the case of changing the experimental environment, experimenter, activity speed, equipment height, and other influencing factors, the system remains robust.
+Rumors can easily propagate through social media, posing potential threats to both individual and public health. Most existing approaches focus on single-language rumor detection, which leads to unsatisfying performance when these are applied to mixed-language rumor detection. Meanwhile, the type of mixed-language (mixture of word-level or sentence-level) is a great challenge for mixed-language rumor detection. In this paper, focusing on a mixed scene of Chinese and Tibetan, the research first provides a Chinese–Tibetan mixed-language rumor detection dataset (Weibo_Ch_Ti) that comprises 1,617 non-rumor tweets and 1,456 rumor tweets in two mixed-language types. Then, the research proposes an effective model with multi-extractors, named “MER-CTRD” for short. This model mainly consists of three extractors. The Multi-task Extractor helps the model to extract feature representations of different mixed-language types adaptively. The Rich-semantic Extractor enriches the semantic features representations of Tibetan in the Chinese–Tibetan-mixed language. The Fusion-feature Extractor fuses the mean and disparity semantic features of Chinese and Tibetan to complement feature representations of the mixed language. Finally, the research conducts experiments on Weibo_Ch_Ti. The results show that the proposed model improves accuracy by about 3%–12% over the baseline models, indicating its effectiveness in the Chinese–Tibetan mixed-language rumor detection scenario.
 
 ## Key words
+Rumor detection
+Chinese–Tibetan mixed language
+Dataset
+Multi extractor
+Feature representations
 
-ubiquitous computing; contactless sensing; IR-UWB; UWB; distance measurement; indoor localization; target tracking
 
-[Download paper here](https://www.jos.org.cn/jos/article/pdf/6760)
-
-Recommended citation: Chen WY, Zhang FS, Liu JJ, Bao P, Zhang DQ. Moving Target Tracking Based on Multi-view Fusion Using IR-UWB
-Radar. Ruan Jian Xue Bao/Journal of Software, 2023, 34(12): 5457–5476 (in Chinese). http://www.jos.org.cn/1000-9825/6760.htm
-
-Recommended citation（in Chinese）: 陈蔚燕, 张扶桑, 刘俊杰, 包鹏, 张大庆. 基于IR-UWB雷达的多视角融合动态目标追踪. 软件学报, 2023, 34(12):
-5457–5476. http://www.jos.org.cn/1000-9825/6760.htm
