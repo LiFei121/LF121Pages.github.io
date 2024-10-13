@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,4 +13,7 @@ redirect_from:
 
 ## BSc in Artifical Intelligence, 2025(expected)
 * GPA:3.81/4.00 * rank:2/47
-* 
+
+## Research Experiences
+
+A novel Chinese-Tibetan mixed-language rumor detector with multi-extractor representations(CCF-C)
