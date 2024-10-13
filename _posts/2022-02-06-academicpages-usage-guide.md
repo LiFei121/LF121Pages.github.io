@@ -1,6 +1,6 @@
 ---
-title: '学术主页使用指南(Academicpages usage guide in Chinese)'
-date: 2022-02-06
+title: '2024年(2025届)中下211计算机保研回忆录（武大遥感&&北理珠海&&厦大信息学院计算机&&东南软件&&浙大工程师&&电子科大&&被中山十杀）'
+date: 2024-09-30
 permalink: /posts/2022/02/academicpages-usage-guide/
 tags:
   - Guide
