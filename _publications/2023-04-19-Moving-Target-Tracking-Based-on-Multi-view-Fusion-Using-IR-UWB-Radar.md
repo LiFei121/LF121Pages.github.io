@@ -1,13 +1,11 @@
 ---
-title: "Moving Target Tracking Based on Multi-view Fusion Using IR-UWB Radar"
+title: "A novel Chinese-Tibetan mixed-language rumor detector with multi-extractor representations"
 collection: publications
 permalink: /publication/2023-04-19-Moving-Target-Tracking-Based-on-Multi-view-Fusion-Using-IR-UWB-Radar
-excerpt: 'In this paper, we propose a moving target tracking method using IR-UWB signals on the basis of understanding the composition of the received signal spectrum in multipath environments.'
-date: 2023-04-19
-venue: 'Journal of Software'
-paperurl: 'http://www.jos.org.cn/jos/article/pdf/6760'
-citation: 'Chen WY, Zhang FS, Liu JJ, Bao P, Zhang DQ. Moving Target Tracking Based on Multi-view Fusion Using IR-UWB
-Radar. Ruan Jian Xue Bao/Journal of Software, 2023, 34(12): 5457–5476 (in Chinese). http://www.jos.org.cn/1000-9825/6760.htm'
+excerpt: 'In this paper, we propose an effective model named MER-CTRD for Chinese–Tibetan mixed-language rumor detection.'
+date: 2024-02-19
+venue: 'Computer Speech & Language'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0885230824000081'
 ---
 
 ## Abstract
