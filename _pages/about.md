@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests are recommender systems, fairness, and time series.
+My current research interests are Graph Computing Systems，Graph Neural Network System.
 
-I am currently a Ph.D student in Computer Science and Engineering at [HKUST](https://hkust.edu.hk/) since the fall of 2023 under the supervision of [Prof. Raymond Wong](https://www.cse.ust.hk/~raywong/).
-
-I received my Bachelor's Degree in Computer Science from [Beijing University of Posts and Telecommunications(BUPT)](http://www.bupt.edu.cn/), and my final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
-
-I have worked on mobile computer systems under the supervision of [Prof. Mengwei Xu, BUPT](https://xumengwei.github.io/) and [Dr. Ting Cao, Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/ticao/).
-
-I have worked on dynamic graph algorithms as a visiting student at the [University of British Columbia](https://ece.ubc.ca/) under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/), which was supported by [Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and [China Scholarship Council](https://www.csc.edu.cn/).
+I’m currently a 4th year student of Artificial Intelligence at [Nanchang University](https://www.ncu.edu.cn/). I have been admitted to pursue my Master degree at School of Artifical Intelligence, [Beijing Institute of Technology](https://zh.bit.edu.cn/) without entrance examination. I used to do Natural Language Processing research, now I mainly focus on Graph Computing Systems, Graph Neural Network Systems.
 
 # NEWS
 
