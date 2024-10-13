@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
-* BSc in Artifical Intelligence, 2025(expected)
+## BSc in Artifical Intelligence, 2025(expected)
+* GPA:3.81/4.00 * rank:2/47
+* 
 
 <!--
 * B.S. in GitHub, GitHub University, 2012
