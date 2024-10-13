@@ -23,4 +23,4 @@ A paper"**A novel Chinese-Tibetan mixed-language rumor detector with multi-extra
 **Programming**: C/C++, Python, PyTorch, Linux, MATLAB, Latex, Markdown
 
 ## Hobbies
-Tennis, table tennis, long-distance running
+Tennis, Table tennis, Long-distance running
