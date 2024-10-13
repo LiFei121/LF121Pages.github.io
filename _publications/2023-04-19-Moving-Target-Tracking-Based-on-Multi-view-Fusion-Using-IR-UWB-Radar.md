@@ -5,7 +5,7 @@ permalink: /publication/2023-04-19-Moving-Target-Tracking-Based-on-Multi-view-Fu
 excerpt: In this paper, we propose an effective model named MER-CTRD for Chinese–Tibetan mixed-language rumor detection
 date: 2024-02-19
 venue: 'Computer Speech & Language'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0885230824000081'
+paperurl: 
 ---
 
 ## Abstract
