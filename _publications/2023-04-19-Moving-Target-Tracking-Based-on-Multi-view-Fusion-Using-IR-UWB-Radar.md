@@ -2,7 +2,7 @@
 title: "A novel Chinese-Tibetan mixed-language rumor detector with multi-extractor representations"
 collection: publications
 permalink: /publication/2023-04-19-Moving-Target-Tracking-Based-on-Multi-view-Fusion-Using-IR-UWB-Radar
-excerpt: 'In this paper, we propose an effective model named MER-CTRD for Chinese–Tibetan mixed-language rumor detection.'
+excerpt:
 date: 2024-02-19
 venue: 'Computer Speech & Language'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0885230824000081'
