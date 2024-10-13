@@ -7,7 +7,7 @@ tags:
   - Memoirs
 ---
 
-本文记录了本文保研的整个过程，本文也可在[知乎](https://zhuanlan.zhihu.com/p/754430616)阅读。
+本文记录了本人保研的整个心路历程，希望对有缘人有一些帮助。本文也可在[知乎](https://zhuanlan.zhihu.com/p/754430616)阅读。
 
 # 前言
 
