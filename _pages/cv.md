@@ -17,7 +17,7 @@ redirect_from:
 
 ## Research Experiences
 
-A novel Chinese-Tibetan mixed-language rumor detector with multi-extractor representations(CCF-C)
+A paper"**A novel Chinese-Tibetan mixed-language rumor detector with multi-extractor representations**"(CCF-C,JCR Q2)
 
 ## Skills
 **Programming**: C/C++, Python, PyTorch, Linux, MATLAB, Latex, Markdown
