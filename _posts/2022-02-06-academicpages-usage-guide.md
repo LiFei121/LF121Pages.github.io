@@ -1,10 +1,10 @@
 ---
 title: '2024年(2025届)中下211计算机保研回忆录（武大遥感&&北理珠海&&厦大信息学院计算机&&东南软件&&浙大工程师&&电子科大&&被中山十杀）'
 date: 2024-09-30
-permalink: https://zhuanlan.zhihu.com/p/754430616
+permalink: /posts/2022/02/academicpages-usage-guide/
 tags:
   - Guide
-  - Chinese
+  - Memoirs
 ---
 
 本文记录了本文保研的整个过程，本文也可在[知乎](https://zhuanlan.zhihu.com/p/754430616)阅读。
