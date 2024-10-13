@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu, Junjie(Chunkit Lau, 刘俊杰)" # "Your Name / Site Title"
+title                    : "LiFei" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Junjie Liu (刘俊杰)" # "Your Name"
+name                     : &name "LiFei" # "Your Name"
 description              : &description "personal description"
 url                      : "https://chunkitlau.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,9 +86,9 @@ author:
   location         : "Hong Kong SAR" # "Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=pSkfLwgAAAAJ"
-  email            : "junjie.liu@connect.ust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Junjie-Liu-5" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : ""
+  email            : "lifei030312@gmail.com"
+  researchgate     : "" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chunkitlau" # "academicpages"
+  github           : "LiFei121" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9413-0444" # "http://orcid.org/yourorcidurl"
+  orcid            : "" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
