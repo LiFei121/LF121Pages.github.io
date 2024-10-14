@@ -15,12 +15,12 @@ redirect_from:
 * GPA:3.81/4.00
 * rank:2/47
 
-## Research Experiences
+# Research Experiences
 
 A paper"**A novel Chinese-Tibetan mixed-language rumor detector with multi-extractor representations**"(CCF-C,JCR Q2)
 
-## Skills
+# Skills
 **Programming**: C/C++, Python, PyTorch, Linux, MATLAB, Latex, Markdown
 
-## Hobbies
+# Hobbies
 Tennis, Table tennis, Long-distance running
