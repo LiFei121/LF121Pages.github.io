@@ -1,13 +1,13 @@
 ---
-title: '2024年(2025届)中下211计算机保研回忆录（武大遥感&&北理珠海&&厦大信息学院计算机&&东南软件&&浙大工程师&&电子科大&&被中山十杀）'
-date: 2024-09-30
-permalink: /posts/2022/02/academicpages-usage-guide/
+title: '代码随想录——数组篇'
+date: 2024-11-06
+permalink: /posts/leetcode1/
 tags:
   - Guide
   - Memoirs
 ---
 
-本文记录了本人保研的整个心路历程，希望对有缘人有一些帮助。本文也可在[知乎](https://zhuanlan.zhihu.com/p/754430616)阅读。
+本文记录了本人在Leetcode上练习代码随想录的代码、心得、思路和体会，以便后续复习和查看，如果遇到有缘人，也可一起讨论和思考。
 
 # 前言
 
